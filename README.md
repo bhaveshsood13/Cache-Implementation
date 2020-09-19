@@ -6,5 +6,5 @@ The different types of Caches implemented are :
 1. Direct Mapped Cache
 1. Set Associative Cache
 
-This program helps us understand how does a Cache work exactly using the Tag and Data Array /
+This program helps us understand how does a Cache work exactly using the Tag and Data Array  
 and what are the different constraints of different designs.
